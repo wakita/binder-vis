@@ -1,0 +1,5 @@
+nbgitpuller
+scipy
+scikit-learn
+pandas
+bokeh

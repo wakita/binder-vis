@@ -1,6 +1,7 @@
 nbgitpuller
 
 bokeh
+colormath
 jupyterlab
 openpyxl
 pandas

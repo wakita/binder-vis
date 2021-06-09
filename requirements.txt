@@ -1,4 +1,6 @@
 nbgitpuller
+
+jupyterlab
 scipy
 scikit-learn
 pandas

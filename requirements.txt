@@ -1,7 +1,8 @@
 nbgitpuller
 
+bokeh
 jupyterlab
+pandas
 scipy
 scikit-learn
-pandas
-bokeh
+xlrd

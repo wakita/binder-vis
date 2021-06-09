@@ -2,7 +2,7 @@ nbgitpuller
 
 bokeh
 jupyterlab
+openpyxl
 pandas
 scipy
 scikit-learn
-xlrd
